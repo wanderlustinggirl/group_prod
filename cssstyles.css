@@ -1,0 +1,115 @@
+/*ILA, Jhenn / RAMOS, Jessa Mae / RAMOS, Shaina May // BSIT 2C*/
+body{
+    background-color: #1F0E07;
+    margin: auto;
+    color: #d4d4d4;
+    font-family: Righteous;
+}
+
+.menu{
+    margin: auto;
+    background-color: #BB1C10;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+a.mitem{
+    color: #d4d4d4;
+    padding: 15px;
+    margin: auto;
+    font-family: Cursive;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.menu a:hover{
+    background: rgb(134, 16, 16);
+    color: white;
+    text-decoration: double;
+    border-radius: 20px;
+}
+
+.menuTitle{
+    text-decoration: none;
+    text-align: center;
+    padding-right: 20px;
+    font-family: cursive;
+}
+
+a.back{
+    color: #fd0606;
+    padding: 15px;
+    margin: auto;
+    font-family: Cursive;
+    text-decoration: none;
+    
+}
+
+.title{
+        padding-top: 30px;
+        padding: 190px;
+        text-align: center;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 90px;
+}
+
+h4{
+    font-style: italic;
+}
+
+div{
+    padding:10px; 
+    text-align: justify;
+}
+
+img{
+    max-width: 500px;
+    padding-right: 15px;
+}
+
+.text{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-indent: 20px;
+}
+
+.text2{
+    font-size: 20px;
+    padding-right: 30px;
+    text-indent: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.link a:hover{
+    color: rgb(237, 42, 42);
+    text-decoration: underline;
+
+}
+
+.footer{
+    text-align: justify;
+    background-color: #110E0D;
+    color: #d4d4d4;
+    padding: 13px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
